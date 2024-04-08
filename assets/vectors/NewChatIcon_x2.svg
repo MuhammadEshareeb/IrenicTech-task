@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M46.994,0L17.006,0C6.552,0 0,7.399 0,17.872L0,46.127C0,56.601 6.522,64 17.006,64L46.994,64C57.478,64 64,56.601 64,46.127L64,17.872C64,7.399 57.478,0 46.994,0Z" clip-rule="evenodd" fill-rule="evenodd" fill="#23C69E"/>
+<line x1="30.5" y1="20.247" x2="30.5" y2="43.694" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="20.266" y1="30.469" x2="43.734" y2="30.469" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="3.999327" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
